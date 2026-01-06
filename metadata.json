@@ -1,0 +1,8 @@
+{
+  "name": "Fixa - Professional Service Marketplace",
+  "description": "Connect with nearby skilled service providers for all your home and office needs. Book, pay via M-Pesa, and rate pros effortlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
